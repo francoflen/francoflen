@@ -41,7 +41,7 @@ Ingeniero enfocado en el desarrollo de software escalable y soluciones de automa
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de Franco](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![Estadísticas de Franco](https://github-readme-stats.vercel.app/api?username=francoflen&show_icons=true&theme=tokyonight)
 
 ---
 
