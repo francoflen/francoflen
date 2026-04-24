@@ -47,7 +47,7 @@ Ingeniero enfocado en el desarrollo de software escalable y soluciones de automa
 
 ## 📫 Conectemos
 * **LinkedIn:** [linkedin.com/in/franco-cea-garnica-312178289/](https://www.linkedin.com/in/franco-cea-garnica-312178289/)
-* **Email:** [Tu correo aquí]
+* **Email:** francocea.garnica@gmail.com
 
 ---
 
